@@ -64,5 +64,5 @@ This project is open-source under the **MIT License**.
 Feel free to submit issues and pull requests to improve this project!
 
 ## 📬 Contact
-For queries, reach out at **your.email@example.com** or open an issue on GitHub!
+For queries, reach out at **sandrasunilkumar4860@gmail.com** or open an issue on GitHub!
 
