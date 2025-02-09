@@ -39,7 +39,7 @@ The **Wisconsin Breast Cancer Dataset** is sourced from the UCI Machine Learning
 ## 💡 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BreastCancer-Wisconsin-Predict.git
+   git clone https://github.com/12sandra/BreastCancer-Wisconsin-Predict.git
    cd BreastCancer-Wisconsin-Predict
    ```
 2. Install dependencies:
